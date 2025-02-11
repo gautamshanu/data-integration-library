@@ -51,6 +51,7 @@ public enum JsonElementTypes {
   RECORD("record", "record", false),
   STRING("string"),
   TIME("time"),
+  SHANU
   TIMESTAMP("timestamp"),
   UNION("union", "union", false),
   UNKNOWN("unknown"),
